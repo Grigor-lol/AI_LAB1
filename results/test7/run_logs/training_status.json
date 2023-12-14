@@ -1,0 +1,65 @@
+{
+    "Manipulator": {
+        "checkpoints": [
+            {
+                "steps": 1499992,
+                "file_path": "results\\test7\\Manipulator\\Manipulator-1499992.onnx",
+                "reward": -4.99849680015019,
+                "creation_time": 1702554930.84932,
+                "auxillary_file_paths": [
+                    "results\\test7\\Manipulator\\Manipulator-1499992.pt"
+                ]
+            },
+            {
+                "steps": 1999989,
+                "file_path": "results\\test7\\Manipulator\\Manipulator-1999989.onnx",
+                "reward": -3.657275527180312,
+                "creation_time": 1702555577.245155,
+                "auxillary_file_paths": [
+                    "results\\test7\\Manipulator\\Manipulator-1999989.pt"
+                ]
+            },
+            {
+                "steps": 2499998,
+                "file_path": "results\\test7\\Manipulator\\Manipulator-2499998.onnx",
+                "reward": -0.6980552226305008,
+                "creation_time": 1702556251.2979498,
+                "auxillary_file_paths": [
+                    "results\\test7\\Manipulator\\Manipulator-2499998.pt"
+                ]
+            },
+            {
+                "steps": 2999986,
+                "file_path": "results\\test7\\Manipulator\\Manipulator-2999986.onnx",
+                "reward": -1.7087344456602025,
+                "creation_time": 1702556918.8614442,
+                "auxillary_file_paths": [
+                    "results\\test7\\Manipulator\\Manipulator-2999986.pt"
+                ]
+            },
+            {
+                "steps": 3003565,
+                "file_path": "results\\test7\\Manipulator\\Manipulator-3003565.onnx",
+                "reward": -2.0477212119026307,
+                "creation_time": 1702556986.7332528,
+                "auxillary_file_paths": [
+                    "results\\test7\\Manipulator\\Manipulator-3003565.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3003565,
+            "file_path": "results\\test7\\Manipulator.onnx",
+            "reward": -2.0477212119026307,
+            "creation_time": 1702556986.7332528,
+            "auxillary_file_paths": [
+                "results\\test7\\Manipulator\\Manipulator-3003565.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
